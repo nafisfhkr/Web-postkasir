@@ -5,7 +5,7 @@ Sistem Kasir (Point of Sales) berbasis web yang lengkap dan responsif, dibangun 
 
 ## Preview
 
-> `(/public/img/dashboard.png)`
+> `![Dashboard Screenshot](/public/img/web kasir.png)`
 
 ## 🚀 Fitur Utama
 
