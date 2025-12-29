@@ -1,26 +1,10 @@
-Jika hanya ada **repositori GitHub tanpa hosting**, itu sebenarnya **sudah cukup bagus** untuk level *developer*! Banyak *recruiter* justru lebih suka melihat repositori GitHub karena mereka bisa melihat:
 
-1. **Kualitas Kode**: Bagaimana cara Anda menyusun logika, penamaan variabel, dan struktur folder.
-2. **History Commit**: Menunjukkan proses Anda membangun aplikasi dari awal hingga selesai.
-3. **Dokumentasi**: Kemampuan Anda menjelaskan cara menjalankan program melalui `README.md`.
-
-Asal Anda memberikan **tangkapan layar (screenshot)** atau **video demo** di dalam repositori tersebut, orang lain sudah bisa mendapatkan gambaran penuh tanpa harus mencoba aplikasinya secara langsung.
-
-Berikut adalah **Template README.md** profesional khusus untuk proyek **web-postkasir** Anda agar terlihat mantap di portofolio:
-
----
-
-### 📄 Template README.md untuk `web-postkasir`
-
-Silakan salin kode Markdown di bawah ini dan gunakan untuk mengganti isi file `README.md` di repositori GitHub Anda.
-
-```markdown
 # 🛒 POS Web Application - Sistem Kasir Terintegrasi
 
 Sistem Kasir (Point of Sales) berbasis web yang lengkap dan responsif, dibangun menggunakan **Laravel** untuk membantu manajemen operasional retail secara efisien. Proyek ini mencakup manajemen inventaris, sistem transaksi yang kompleks, hingga pelaporan keuangan otomatis.
 
-## 🖼️ Preview
-> *Tambahkan screenshot dashboard aplikasi Anda di sini*
+## Preview
+
 > `![Dashboard Screenshot](/public/img/dashboard.png)`
 
 ## 🚀 Fitur Utama
